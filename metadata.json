@@ -1,0 +1,5 @@
+{
+  "name": "Arch.io - Engineering Concept & RAG Lab",
+  "description": "A sophisticated learning environment for software engineers. Use Gemini 2.5 to explore complex architectural concepts, visualize system designs, and simulate RAG (Retrieval-Augmented Generation) by grounding AI responses in your own pasted documentation or snippets.",
+  "requestFramePermissions": []
+}
